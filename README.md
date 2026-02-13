@@ -1,12 +1,12 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for [Essential Tooling for Programmers]!
+Welcome to my academic portfolio for Essential Tooling for Programmers!
 
 ## About Me
-- Name: [MAHSA BEIGI]
-- Major: [programmer]
-- Year: [first]
-- Favorite Programming Language: [C]
+- Name: MAHSA BEIGI
+- Major: programmer
+- Year: first
+- Favorite Programming Language:C
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
